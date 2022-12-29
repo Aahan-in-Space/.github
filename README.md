@@ -1,6 +1,6 @@
 # .github
 This organization's README.md
-# We are currently not welcoming any contributions
+# This repository does not welcome contributions
 ## If you wish to contribute to something check out other repositories at: https://github.com/orgs/Aahan-in-Space/repositories
 # Don't do this on the repository
 Do not use this repository as a place for any sort of discrimination or humiliation.
