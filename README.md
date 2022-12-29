@@ -10,8 +10,6 @@ There are other things that have not been mentioned (but please use common sense
 Anybody in violation of these rules could be reported to GitHub ; have banned code and/or issues removed or marked as spam ; and lose ability to edit/view the repository.
 # Licensing
 We at Aahan in Space use the MIT license (recommened by GitHub).
-# Security 
-If you find a security vulnerability please mailto:githubsecurity@aahaninspacevolunteer.ml
 # Support
 If you need support please post questions in the GitHub Discussions.
 If you need urgent support please post on GitHub Discussions and mailto:volunteersupport@aahaninspacevolunteer.ml
