@@ -1,5 +1,6 @@
 # .github
-This organization's README.md
+This organization's README.md (this is in profile/README.md).
+A general worflow used in all of the organization's repositories.
 # This repository does not welcome contributions
 ## If you wish to contribute to something check out other repositories at: https://github.com/orgs/Aahan-in-Space/repositories
 # Don't do this on the repository
