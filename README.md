@@ -13,5 +13,5 @@ Anybody in violation of these rules could be reported to GitHub ; have banned co
 We at Aahan in Space use the MIT license (recommened by GitHub).
 # Support
 If you need support please post questions in the GitHub Discussions.
-If you need urgent support please post on GitHub Discussions and mailto:volunteersupport@aahaninspacevolunteer.ml
+If you need urgent support please post on GitHub Discussions and mailto:volunteerhelpdesk@aahaninspace.tk
 # Hope you enjoy!!
